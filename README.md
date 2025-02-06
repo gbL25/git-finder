@@ -1,1 +1,1 @@
-# git-finder
+# PROJETO DE REACT COM TYPESCRIPT E API
